@@ -1,0 +1,113 @@
+---
+title: "Monthly Newsletter"
+subtitle: "~or~ Unsolicited Advice from..."
+author: ":pTED for the last bits of 2022..."
+date: "Week 0 // Dec. 26th - Jan 1st"
+output:
+  bookdown::html_document2:
+  #bookdown::pdf_document2:
+    number_sections: false
+    toc: no
+    always_allow_html: true
+    
+    
+bibliography:
+- R-packages.bib
+- aRticles.bib
+
+csl: ecology.csl
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo=FALSE,
+                      message=FALSE,
+                      warning=FALSE)
+
+library(papaja)
+
+papaja::r_refs(file="newsletter.bib")
+
+options(knitr.kable.NA="")
+
+```
+
+# 0 << Null // **the blur** >>
+
+I want to start by saying, I just got out of a decade long stint in hell and a good man had to die to get me out. I remember little of the last ten years, hence **the blur** (yeah.. hence), but bits and pieces are coming back with time and the stories of others. Somethings I would like to keep forgotten others I'm glad to learn so I can ameliorate any wrongdoing from my time in **the blur**...
+
+So this year, 2022, my world imploded circa October, I'm working on it but the gist is; I quit my job, My dog lost an arm, I killed my car engine, and I "moved out" of my apartment (spoiler! I'm still suckered until July or someone can sublet from me.. ugh.). 
+
+Over the last 5 years (at least) I had been observing Kwanzaa as my December holiday sarcastically. This year, still 2022, I put my own spin on it and stole it, like all white people before me. Art is theft, people are living portraits of themselves, innovation is the new art, just look at the AI boom (A.. I?? // Artificial... INTELLIGENCE!). Let's move on...
+
+This brings us to the week of Kwanzaa 2022, or the self-investing/frivolity tour of humor, sarcasm, and as much altruism as I can muster. Altruism is great and all but it's a double-edged sword. You're doing good for the sake of good, but you still reap the benefit of klout or status. The key is identifying your intention within the context. Say you see a person in the rain on the street with a sign that says, "cold and hungry". Now imagine you made a bomb-ass sandwich that you're really excited to eat, you even wrapped it all fancy so it'll be easy to warm up. Then you see this person, in the rain, with (now I'm adding a severe storm warning, it's topical...) their soggy sign. There isn't much you can do about the cold, but you can do something about the hunger. Plus you can buy food later, give that person a sandwich.
+
+So 2023, the year of the rabbit, is going to be the year of altruism, self-investment, and reviving my inner child. That last dude lived a good life that took a deep leap down a dark hole. 
+
+# 1 << Gold/Silver rule >> 
+
+Unsurprisingly, I switched around the meanings of these two rules. Did you know the gold rule says, “Do onto others as you would have them do onto you.” In other words, “An eye for an eye leaves the whole world blind.” The silver rule, which is worded funnily, “What I do not wish on others to do to me, I do not wish to do onto others.” In other words, just because the world was cruel to you, does not mean you can be cruel to the world. You just got back luck, pay it forward for future luck.
+
+As a kid I often saw misfortune in others where I was lucky, or luck in others where I was misfortune. I never really understood why but I know that I never liked the unfairness. Fast forward into **the blur**, I was fed up with my choices (not for the first or last time) and needed to make a change. I remember seeing a video somewhere about a man fed up with his life and his resolve to turn himself around. The gist is, he went to a party of an old friend and grew envious over his success. At his apartment he looked around and judged himself for the way he lived, focusing on the trashcan. The message that I took from this was, “Respect your trash, its another persons treasure.”
+
+The world was cruel to me during **the blur** and I was cruel in return. It brought me nowhere except deeper in my tunnel. I want to Look the Man in the Mirror and heal heal the world versus harming it further. Since that video I have had a newfound respect for my trashcan (I give the little guy a nice washing every now and then, or whenever I drop egg on the lid...so often). Which brings me to recycling. Reduce, reuse, recycle. I would like to add my own “R” that has to do with sustainability, Regrow. Whether its a tree, a plant, an herb, some lichens, or repurposed bits of nature, grow/build something from what was made before. Three reasons for this, the first - creation in any form is an art - second - destruction of recyclables is stress relieving - and third - the whole process for my is meditative. To expand on the third a bit, while I am recycling my trash and/or collecting bits of nature and ultimately making something of it makes me focus on the whole process of the item.
+
+I could go on and on, but let’s move on (and on)...
+
+# 2 << Develop your moral code // My Hu'm0n-trees (in English; Mantras) >>
+
+See the above two sections for the start of the year's m0n-trees. This is a living list and will change monthly. Focusing each month on the ones that I adhered to most, liked most, and adhered to the least (as a indicator for improvement). In the following months more will be added with inconsistent/nonsequential numbering based on the months lucky numbers. You will notice that there isn't a "5th" section, more on that in section 10. Don't worry you'll get to it (tl;dr... ID your lucky/unlucky numbers).
+
+# 3 << Watch, Look, Listen // AKA "the Aleppo Rule" or "See one, Do one, Teach one" >>
+
+Remember that you know nothing. Ask questions, make mistakes, fail (often): these are some of the best teachers. Added bonus you're improving another person's knowledge when you ask clarifying questions. It helps you to paraphrase what they said into words you can understand and gives them the opportunity to explain something in easy to understand terms. If you can't explain something to a five-year-old, then (IMO) you don't understand the topic enough. Do more research.
+
+# 4 << Music, a spice of life // AKA "get out of your comfort zone" >>
+
+We all have the music we like and the music we don't like, or don't like yet. Whatever music app you use, pick the "Discover music" option once in a while, you'll be surprised where your musical appreciation will lead you. Also, music is one way we connect to cultures other than our own, it provides insight into other peoples ways of life. See also, section #2.
+
+Throughout 2022, I made playlists out of the music I had liked during the last month and used them to set the mood for the month. I used music in this way to track my mood as time went on. As the year changed I tried new things, failed at somethings, and routed in habits that ultimately led to the same outcomes as previous years. This year, I am taking it one step further and reviewing what I was experiencing that time last year to avoid making similar mistakes this year. 
+
+After all, music is the spice of life and one of my favorite conversation starters. 
+"What kind of music do you like to listen to?"
+It's an age old question that has a million answers. For instance, for little 'ol me... it's a wide range but the common genres are easily [Hard Rock and Classic Rock](https://podcasts.apple.com/ca/podcast/tmp-hard-rock-classic-rock/id500405639?i=1000386492352).
+
+# 6 << x3 Basics // Sleep, Diet, Exercise >>
+
+This is one I find both easy to *do* but hard to stick with. At this point out of **the blur**, I am filled with insomnia and usually can get about 4 hours of sleep at any one time. In those waking hours where I wish I were asleep instead, I've decided to be productive rather then lie in bed and try and force something that does not intend to happen. So this year, I am reviving my inner child and getting myself into all of the things I wanted to do, learn about when I was growing up, or hobbies for which I never made the time to do. On the short list for this year; painting, woodworking, kites, photography, drawing, DND, creative writing, climbing, collecting bits of nature, learning more about how ingredients work together in foods, making my own ingredients, and more. 
+
+This year to make sure I do all three regularly I'm starting easy and picking up more as I create stronger habits. For sleep, during the week I'm probably SOL, but during the weekends I will MAKE time to catch up on sleep and take a nap should I need to. As to diet, this is the really tough one because I honestly forget. I'll go through phases of focus where it's all that thing and food is just not a priority. To challenge this, I am buying snacks often and I'm putting them in various locations so that I always have something to eat. If I can manage two meals a day and snacks.. I'm golden. Exercise is a really tough one to start, moderately tough to continue, but rewarding to stick with in the long run. Find something you enjoy, some kind of challenge that can get you in the zone, for me it's indoor rock climbing. It's like a puzzle of how to do something successfully when there are dozens of ways to climb the wall. Once I can boulder a V5 in the climbing gym, then I think I will be ready for bouldering in the wild. Based on how well I can to a V2 or V3, I have a ways to go. Persistance! This is something I have always loved doing, two things - climbing on stuff and puzzles.
+
+# 8 << [Support your local community](https://www.redcrossblood.org/local-homepage.html) >>
+
+Give back in some way, shape, or form. The world is cruel, don't add to it, subtract from it with patience and kindness. You could do anything from something easy like giving blood or sharing food with a close friend. In either way you are helping someone other than yourself for no reason other than you're doing something good for the sake of doing something good. When you support your community you pay it forward for future luck and as a reminder that not everyone is where you're at in life nor are you always where others are at in their lives. Adulthood is dynamic, there is no manual, everyone is just faking it until they make it. Some are more active in what the do and want to do, others - like myself for several years - live at the minimum, go to work, go home, eat, sleep, repeat. It's all well and good if you do that, but in my case that lack of mental stimulation outside work eroded the balance of my three basics. This then caused undue stress which led me to make mistakes that took years to stop making. 
+
+Ultimately, give back to your community because you could wind up in their situation. If you were, you'd want someone to help you out. Be that person that people hope for by lending a helping hand when the opportunity arises, give that person in the rain a sandwich, lend an ear to a stressed friend and let them vent. Venting is just word vomiting, it's not supposed to make sense, it's pure stream of consciousness of how the stress is affecting them. Listen to what they're saying and paraphrase it in your head to keep up, ask a question to clarify what they're saying but try not to interrupt. Remember raising your hand to ask a question in elementary school? Raise you hand and ask the question. Y'know people often laugh at me when they see me raise my hand in a conversation. Whatever, I want to do it, what's it matter anyway?
+We're getting off topic, you get the idea. Donate blood or go fly a kite.
+
+# 9 << Keep your cards, friends, enemies, self and your word close. // ["Treat yo'self"](https://giphy.com/search/treat-yo-self) >>
+
+I like this one, it makes me an enigma and it's multi-faceted like so many aspects of life. We're three dimensional beings in a 3D world - Left brain, Right brain, and what we present to the world. Internally, we are split between introversion and extroversion, left brain and right brain, masculinity or femininity  or fluidity. We are all crazy in our own ways, let people do their own crazy. Keep your cards close, don't talk about everything you do, talk about what you're proud of and what you're working on. Keeping my cards and my word close are linked as I don't like to break either. If I break my word it feels like a lie to whomever I gave my word to, even getting somewhere at a specific time but arriving late feels like a lie. I try not to talk about everything with everyone because my comfortably with other people depends on the person, or my mood if they're a stranger. Oddly, I am surprisingly open with strangers and more closed of to friends. I think its an ephemeral mood thing and knowledge that they won't remember this interaction. 
+
+Friends, enemies, and self - 
+
+
+# 10 << Identify your lucky and unlucky numbers, then assign them meaning >>
+
+You'll notice that the numbers are not 1-10, it's not a typo, it's intentional. 
+
+# 7 << x7 Basics // Another living list of habits to force on yourself >>
+
+# Contact Information..................
+
+## Editor(s): 
+### J. pTedward Carter [he/him]
+
+## [CV](https://rpubs.com/nottedy/CV)
+
+#### Thee Buzz: Local WNC Artist and hobby-ist (?), Let's say ENIGMA. 
+
+##### 2022's hu'man-tree: Take your time... Money is ephemeral, life is long, and time doesn't exist
+
+##### Lucky Numbers: 0 2 3 4 6 7 9 // Unlucky: 1* and 5
+
