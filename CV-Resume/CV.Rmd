@@ -2,15 +2,8 @@
 title: "CV"
 author: "J TED Carter"
 date: "`r Sys.Date()`"
-output:
-  bookdown::html_document2:
-    number_sections: false
-    toc: yes
-    always_allow_html: true
-    
-    
+
 bibliography:
-- R-packages.bib
 - aRticles.bib
 
 csl: ecology.csl
@@ -23,21 +16,12 @@ knitr::opts_chunk$set(echo=FALSE,
                       warning=FALSE)
 
 library(papaja)
-#library(pdflatex)
 
 papaja::r_refs(file="CV.bib")
 
 options(knitr.kable.NA="")
 
 ```
-
-```{r letter, echo=FALSE}
-# Cover Letter
-
-
-```
-
-\newpage
 
 ---
 Contact Information:
@@ -48,7 +32,6 @@ Office:
 236 Moose Vlg. 
   31-2
 Cullowhee, NC 28723
----
 
 ---
 Email(s):
@@ -57,8 +40,7 @@ Email(s):
 
 ~nottedy@gmail.com (commissions)
 
-~info@nottedysorange.co
----
+~info@nottedysorange.co (contact)
 
 ---
 Descriptive terms...
@@ -67,16 +49,6 @@ Descriptive terms...
   [Enigma] 
       [sm.Bizz](nottedysorange.co) 
       [personal.Instagram](https://www.instagram.com/_nottedy/)
-
----
-
-\newpage
-
-```{r cover letter, echo=FALSE}
-# Cover Letter
-
-
-```
 
 \newpage
 
@@ -113,16 +85,5 @@ Descriptive terms...
 ### Certifications
 
 
-
-```
-
-\newpage
-
-```{bits, echo=FALSE}
-# Other
-
-#### [Monthly Newsletter](broken link...)
-
-#### Hobbies
 
 ```
